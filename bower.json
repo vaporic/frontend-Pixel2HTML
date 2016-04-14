@@ -1,0 +1,10 @@
+{
+  "name": "frontend-test",
+  "version": "0.0.1",
+  "description": "Front-End Test Pixel2HTML",
+  "dependencies": {
+    "fontawesome": "~4.1.0",
+    "jquery": "^2.2.3"
+  },
+  "devDependencies": {}
+}
